@@ -12,7 +12,12 @@ David Cortés-Ortuño<sup>1</sup>, Marijan Beg<sup>1,2</sup>, Vanessa Nehruji<su
 
 ## Introduction
 
-Different Dzyaloshinskii-Moriya interaction forms can be written as different combinations of Lifshitz invariants depending on the crystallographic class of the magnetic material [1].
+Different Dzyaloshinskii-Moriya interaction forms can be written as different combinations of Lifshitz invariants depending on the crystallographic class of the magnetic material [1]. This mathematical formalism can also be applied to bulk DMI systems, where the lack of inversion symmetry in the magnetic system is present due to the noncentrosymmetric crystal lattice (crystallographic classes T and O). It is usually referred to the T DMI as bulk DMI.
+
+For the OOMMF extensions for other crystallographic classes, please refer to:
+
+1. C<sub>nv</sub> - interfacial DMI ([repository](https://github.com/joommf/oommf-extension-dmi-cnv))
+2. D<sub>2d</sub> - antiskyrmion DMI ([repository](https://github.com/joommf/oommf-extension-dmi-d2d))
 
 ## Energy density
 
