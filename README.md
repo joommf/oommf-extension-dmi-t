@@ -52,7 +52,10 @@ If you require support on installation or usage of this OOMMF extension as well 
 
 If you use this OOMMF extension in your research, please cite it as:
 
-David Cortés-Ortuño, Marijan Beg, Vanessa Nehruji, Ryan A. Pepper, & Hans Fangohr. OOMMF extension: Dzyaloshinskii-Moriya interaction (DMI) for crystallographic classes T and O (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.1196820 (12 March 2018).
+1. David Cortés-Ortuño et al. paper in preparation
+
+2. David Cortés-Ortuño, Marijan Beg, Vanessa Nehruji, Ryan A. Pepper, & Hans Fangohr. OOMMF extension: Dzyaloshinskii-Moriya interaction (DMI) for crystallographic classes T and O (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.1196820 (12 March 2018).
+
 
 ## License
 
