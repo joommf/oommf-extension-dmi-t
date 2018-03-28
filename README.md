@@ -36,9 +36,8 @@ This OOMMF extension works both with and without periodic boundary conditions (P
 To install this extension:
 1. Copy `DMI_T.cc` and `DMI_T.h` files from the `src` directory in this repository into the `app/oxs/local` directory in the OOMMF main directory.
 2. Recompile OOMMF, usually by running
-```
-tclsh oommf.tcl pimake distclean && tclsh oommf.tcl pimake upgrade && tclsh oommf.tcl pimake
-```
+
+       tclsh oommf.tcl pimake distclean && tclsh oommf.tcl pimake upgrade && tclsh oommf.tcl pimake
 
 ## Examples
 
@@ -55,7 +54,6 @@ If you use this OOMMF extension in your research, please cite it as:
 1. David Cortés-Ortuño et al. paper in preparation
 
 2. David Cortés-Ortuño, Marijan Beg, Vanessa Nehruji, Ryan A. Pepper, & Hans Fangohr. OOMMF extension: Dzyaloshinskii-Moriya interaction (DMI) for crystallographic classes T and O (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.1196820 (12 March 2018).
-
 
 ## License
 
