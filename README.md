@@ -17,11 +17,7 @@ David Cortés-Ortuño<sup>1,2</sup>, Marijan Beg<sup>1,3</sup>, Martin Lang<sup>
 
 ## About
 
-Different Dzyaloshinskii-Moriya interaction forms can be written as different combinations of Lifshitz invariants depending on the crystallographic class of the magnetic material [1]. This mathematical formalism can also be applied to bulk DMI systems, where the lack of inversion symmetry in the magnetic system is present due to the noncentrosymmetric crystal lattice (crystallographic classes T and O). It is usually referred to the T(O) DMI as bulk DMI.
-
-## Energy density
-
-The DMI energy density for the crystallographic classes T and O as a sum of Lifshitz invariants [1] is
+Different Dzyaloshinskii-Moriya interaction forms can be written as different combinations of Lifshitz invariants depending on the crystallographic class of the magnetic material [1]. This mathematical formalism can also be applied to bulk DMI systems, where the lack of inversion symmetry in the magnetic system is present due to the noncentrosymmetric crystal lattice (crystallographic classes T and O). It is usually referred to the T(O) DMI as bulk DMI. The DMI energy density for the crystallographic classes T and O [1] is:
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\LARGE&space;w&space;=&space;D&space;\left(&space;\mathcal{L}_{zy}^{(x)}&space;&plus;&space;\mathcal{L}_{xz}^{(y)}&space;&plus;&space;\mathcal{L}_{yx}^{(z)}&space;\right)&space;=&space;D&space;\mathbf{m}&space;\cdot&space;\left(&space;\nabla&space;\times&space;\mathbf{m}&space;\right)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\LARGE&space;w&space;=&space;D&space;\left(&space;\mathcal{L}_{zy}^{(x)}&space;&plus;&space;\mathcal{L}_{xz}^{(y)}&space;&plus;&space;\mathcal{L}_{yx}^{(z)}&space;\right)&space;=&space;D&space;\mathbf{m}&space;\cdot&space;\left(&space;\nabla&space;\times&space;\mathbf{m}&space;\right)" title="\LARGE w = D \left( \mathcal{L}_{zy}^{(x)} + \mathcal{L}_{xz}^{(y)} + \mathcal{L}_{yx}^{(z)} \right) = D \mathbf{m} \cdot \left( \nabla \times \mathbf{m} \right)" /></a>
 
